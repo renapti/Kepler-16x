@@ -1,0 +1,25 @@
+{
+  "pack": {
+    "pack_format": 9,
+    "description":
+    [
+      {
+        "color": "#AC92BD",
+        "text": "a minimal edit by renapti "
+      },
+      {
+        "color": "#634DB4",
+        "text": "b1.1\n"
+      },
+
+      {
+        "color": "#A888F5",
+        "text": "mint "
+      },
+      {
+        "color": "#F9E8FF",
+        "text": "contains everything"
+      }
+    ]
+  }
+}

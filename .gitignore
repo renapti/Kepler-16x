@@ -1,0 +1,10 @@
+# Filepaths
+reNebula mint 16x 1.19/assets/minecraft/Other
+reNebula mint 16x 1.19/assets/minecraft/textures/item/OLD
+reNebula mint 16x 1.19/assets/minecraft/textures/item/ORIGINAL TOOLS
+reNebula mint 16x 1.19/assets/minecraft/textures/item/SCRAPPED
+
+# Filetypes
+*.ase
+*.aseprite
+desktop.ini
