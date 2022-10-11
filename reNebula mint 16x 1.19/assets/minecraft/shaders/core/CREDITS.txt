@@ -1,5 +1,0 @@
-I DID NOT MAKE THESE SHADERS!!
-They were entirely the work of Enchanted_Games on Planet Minecraft:
-https://www.planetminecraft.com/blog/changing-hardcoded-colours-1-18-1-17-core-shaders/
-
-I just modified them a little to suit my needs!
