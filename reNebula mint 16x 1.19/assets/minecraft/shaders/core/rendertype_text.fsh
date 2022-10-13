@@ -54,7 +54,7 @@ void main()
     )
     {
         // color = vec4(1.0, 1.0, 1.0, color.a);
-        // This is a dark purple, unobtrusive on the title screen (blends in well, even)
+        // This is a dark purple, unobtrusive on the title screen (blends in well, even, I bet you didn't even notice)
         // yet still works well in the Inventory
         color = vec4(0.231, 0.188, 0.365, color.a);
     }
