@@ -18,7 +18,7 @@ out vec4 fragColor;
 
 vec4 color = texture(Sampler0, texCoord0) * vertexColor * ColorModulator;
 
-// don't talk to me or my nonexistant son ever again
+// don't talk to me or my nonexistent son ever again
 // terrible code
 bool vec4EqualsRough(vec4 a, vec4 b, float maxDiff)
 {
@@ -54,8 +54,9 @@ void main()
     )
     {
         // color = vec4(1.0, 1.0, 1.0, color.a);
-        // This is a dark purple, unobtrusive on the title screen (blends in well, even, I bet you didn't even notice)
-        // yet still works well in the Inventory
+        // Dark purple, which works well both in the inventory and title screen text
+        // (This is my way of saying I'm too lazy to properly fix this)
+        // (At least it's not ugly anymore)
         color = vec4(0.231, 0.188, 0.365, color.a);
     }
     
