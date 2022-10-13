@@ -8,6 +8,3 @@ reNebula mint 16x 1.19/assets/minecraft/textures/item/SCRAPPED
 *.ase
 *.aseprite
 desktop.ini
-
-# Needs Fixing
-reNebula mint 16x 1.19/assets/minecraft/shaders/core/rendertype_text.fsh
