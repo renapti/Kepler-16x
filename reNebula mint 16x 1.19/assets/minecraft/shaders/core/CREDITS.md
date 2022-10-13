@@ -1,6 +1,6 @@
 # Shaders Credits
 
-I did not make these shaders. They are entirely the work of  [Enchanted_Games](https://www.planetminecraft.com/member/enchanted_games/) on Planet Minecraft.  
-[Here's the link to the Template Pack I used!](https://www.planetminecraft.com/blog/changing-hardcoded-colours-1-18-1-17-core-shaders/)
+[position_color](https://github.com/renapti/reNebula/blob/1.1/reNebula%20mint%2016x%201.19/assets/minecraft/shaders/core/position_color.fsh) and [rendertype_text](https://github.com/renapti/reNebula/blob/1.1/reNebula%20mint%2016x%201.19/assets/minecraft/shaders/core/rendertype_text.fsh) are not mine!
 
-I modified pack to suit my needs!
+They were made by [Enchanted_Games](https://www.planetminecraft.com/member/enchanted_games/) on Planet Minecraft.  
+[Here's the link](https://www.planetminecraft.com/blog/changing-hardcoded-colours-1-18-1-17-core-shaders/) to the Template Pack I used!
