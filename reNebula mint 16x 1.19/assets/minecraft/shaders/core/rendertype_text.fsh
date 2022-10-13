@@ -19,6 +19,7 @@ out vec4 fragColor;
 vec4 color = texture(Sampler0, texCoord0) * vertexColor * ColorModulator;
 
 // don't talk to me or my nonexistant son ever again
+// terrible code
 bool vec4EqualsRough(vec4 a, vec4 b, float maxDiff)
 {
     if
@@ -45,14 +46,17 @@ void main()
 
     vec4 invTextColor = vec4(0.247, 0.247, 0.247, 1.0);
 
-    // Make Inventory Text more readable
+    // Make Inventory Text less ugly
     // This is DEFINITELY NOT an EFFICIENT WAY to do this
     if
     (
         vec4EqualsRough(color, invTextColor, 0.002)
     )
     {
-        color = vec4(1.0, 1.0, 1.0, color.a);
+        // color = vec4(1.0, 1.0, 1.0, color.a);
+        // This is a dark purple, unobtrusive on the title screen (blends in well, even)
+        // yet still works well in the Inventory
+        color = vec4(0.231, 0.188, 0.365, color.a);
     }
     
     fragColor = linear_fog(color, vertexDistance, FogStart, FogEnd, FogColor);
