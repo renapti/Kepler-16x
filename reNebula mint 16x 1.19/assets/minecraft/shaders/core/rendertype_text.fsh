@@ -50,19 +50,26 @@ void main()
         discard;
     }
 
-    vec4 invTextColor = vec4(0.247, 0.247, 0.247, 1.0);
+    // These are the colors for:
+    // Inventory Text (Text that says "Inventory" or "Chest," or something similar)
+    // Background of Menu Text
+    // Background of Chat Text
+    // Background of Chat Prompt Text (When you "open chat," which is a different color for some ungodly reason)
+    vec4 genericTextBackground = vec4(0.2471, 0.2471, 0.2471, 1);
+    vec4 promptTextBackground = vec4(0.2157, 0.2157, 0.2157, 1); // Like, look at this???
 
     // Make Inventory Text less ugly
     // This is DEFINITELY NOT an EFFICIENT WAY to do this
+    // Still works well nonetheless
     if
     (
-        vec4EqualsRough(color, invTextColor, 0.002)
+        vec4EqualsRough(color, genericTextBackground, 0.005) ||
+        vec4EqualsRough(color, promptTextBackground, 0.005)
     )
     {
-        // color = vec4(1.0, 1.0, 1.0, color.a);
         // Dark purple, which works well both in the inventory and title screen text
         // (This is my way of saying I'm too lazy to properly fix this)
-        // (At least it's not ugly anymore)
+        // (At least it's not an ugly dark gray anymore)
         color = vec4(0.231, 0.188, 0.365, color.a);
     }
     
