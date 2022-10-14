@@ -16,10 +16,9 @@ in vec2 texCoord0;
 
 out vec4 fragColor;
 
-vec4 color = texture(Sampler0, texCoord0) * vertexColor * ColorModulator;
-
 // don't talk to me or my nonexistent son ever again
 // terrible code
+// Check if two Vec4's are roughly equal between difference of maxDiff
 bool vec4EqualsRough(vec4 a, vec4 b, float maxDiff)
 {
     if
@@ -55,8 +54,10 @@ void main()
     // Background of Menu Text
     // Background of Chat Text
     // Background of Chat Prompt Text (When you "open chat," which is a different color for some ungodly reason)
+    // XP Bar Text
     vec4 genericTextBackground = vec4(0.2471, 0.2471, 0.2471, 1);
     vec4 promptTextBackground = vec4(0.2157, 0.2157, 0.2157, 1); // Like, look at this???
+    vec4 xpBarText = vec4(0.4941, 0.9882, 0.1255, 1);
 
     // Make Inventory Text less ugly
     // This is DEFINITELY NOT an EFFICIENT WAY to do this
@@ -71,6 +72,16 @@ void main()
         // (This is my way of saying I'm too lazy to properly fix this)
         // (At least it's not an ugly dark gray anymore)
         color = vec4(0.231, 0.188, 0.365, color.a);
+    }
+
+    // Make XP Bar Text purple, instead of using color.properties
+    // Parity between OptiFine/Colormatic and Vanilla
+    if
+    (
+        vec4EqualsRough(color, xpBarText, 0.005)
+    )
+    {
+        color = vec4(0.9451, 0.898, 1, 1);
     }
     
     fragColor = linear_fog(color, vertexDistance, FogStart, FogEnd, FogColor);

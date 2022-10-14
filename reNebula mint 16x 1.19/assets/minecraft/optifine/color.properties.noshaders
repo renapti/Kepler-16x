@@ -31,8 +31,8 @@ text.code.15=ffffff
 ###############################################################################
 # Resource loading screen
 ###############################################################################
-# Background color (We have shaders for this)
-# screen.loading=6f4aba
+# Background color
+screen.loading=6f4aba
 # Loading bar background color
 screen.loading.bar=6f4aba
 # Loading bar outline
