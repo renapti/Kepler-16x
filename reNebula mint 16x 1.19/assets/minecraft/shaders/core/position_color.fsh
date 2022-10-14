@@ -11,6 +11,15 @@ uniform vec2 ScreenSize;
 
 out vec4 fragColor;
 
+// Linearly map a given value to the given lower and upper bounds
+float linear(float value, float valMin, float valMax, float liMin, float liMax)
+{
+    // Clamp value to the given minimum and maximum
+    value = min( max(value, valMin), valMax );
+    // This probably isn't the easiest way to do this
+    return ((liMax - liMin) * ((value - valMin) / (valMax - valMin))) + liMin;
+}
+
 void main() {
     vec4 color = vertexColor;
 
@@ -22,13 +31,17 @@ void main() {
     // Item Tooltip Border
     if (color.r >= 0.15686 && color.r <= 0.31373 && color.g == 0 && color.b >= 0.49 && color.b <= 1)
     {
-        // color = vec4(1.0, 1.0, 1.0, 1.0); White
-        color = vec4(0.847, 0.765, 1.0, 1.0);
+        // Vertically reflecting dark gradient
+        color.a = abs(linear(color.b, 0.515, 1.0, -1.0, 1.0));
+        color.a -= 0.3;
+        color.a *= 1 / 0.3;
+        color = vec4(0.2314, 0.1882, 0.3647, color.a);
     }
+
     // Tooltip Background
     if (color.r == 16 / 255.0 && color.g == 0 / 255.0 && color.b == 16 / 255.0)
     {
-        color = vec4(0.141, 0.098, 0.271, 0.90);
+        color = vec4(0.141, 0.098, 0.271, 0.75);
     }
 
     // Slot Hover Color
