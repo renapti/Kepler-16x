@@ -43,6 +43,12 @@ bool vec4EqualsRough(vec4 a, vec4 b, float maxDiff)
 
 void main()
 {
+    vec4 color = texture(Sampler0, texCoord0) * vertexColor * ColorModulator;
+
+    if (color.a < 0.1)
+    {
+        discard;
+    }
 
     vec4 invTextColor = vec4(0.247, 0.247, 0.247, 1.0);
 
