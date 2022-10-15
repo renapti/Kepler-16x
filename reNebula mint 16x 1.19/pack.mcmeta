@@ -4,21 +4,20 @@
     "description":
     [
       {
-        "color": "#AC92BD",
-        "text": "a minimal edit by renapti "
+        "color": "#A888F5",
+        "text": "mint flavor "
       },
       {
         "color": "#634DB4",
-        "text": "b1.1\n"
-      },
-
-      {
-        "color": "#A888F5",
-        "text": "mint "
+        "text": "v1.1-beta\n"
       },
       {
         "color": "#F9E8FF",
-        "text": "contains everything"
+        "text": "has everything"
+      },
+      {
+        "color": "#AC92BD",
+        "text": " by renapti "
       }
     ]
   }
