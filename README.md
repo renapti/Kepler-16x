@@ -1,6 +1,6 @@
 # reNebula v1.1.0
 
-## Meet *reNebula*, renapti's Beautifully Simple Resource Pack for *Minecraft: Java Edition 1.19*
+## Meet *reNebula*, renapti's Beautifully Simple Resource Pack for *1.19*
 
 *This README is a WIP! Expect more to be added soon!*
 
