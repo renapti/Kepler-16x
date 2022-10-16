@@ -96,6 +96,6 @@ The Simple, Purple, Clean and Minimal Resource Pack that Doesn't Compromise.
 
 This Resource Pack is compatible with [Appleskin](https://modrinth.com/mod/appleskin/versions)! Get a handy overlay of your saturation, now with reNebula Compatibility!
 
-I recommend using [OptiFine](https://optifine.net/downloads) / [Colormatic](https://modrinth.com/mod/colormatic/versions) with this pack for the Custom Font Colors and XP Orb Color, however it is by no means required.
+I recommend using [OptiFine](https://optifine.net/downloads) / [Colormatic](https://modrinth.com/mod/colormatic/versions) with this pack for the Custom Font Colors, Durability Bar Gradient, and XP Orb Color, however it is by no means required.
 
 There is a [long-unfixed bug](https://bugs.mojang.com/browse/MC-67532) in Minecraft that cuts off the bottom of the Hotbar selector. Luckily, this issue has been fixed with the mod [Raised](https://modrinth.com/mod/raised/versions), which I highly recommend using with this pack.
