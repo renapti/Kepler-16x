@@ -47,7 +47,7 @@ void main() {
     // Slot Hover Color
     if (color.r == 255 / 255.0 && color.g == 255 / 255.0 && color.b == 255 / 255.0 && color.a == 128 / 255.0)
     {
-        color = vec4(0.847, 0.765, 1.0, color.a);
+        color = vec4(0.847, 0.765, 1.0, 0.3);
     }
 
     // Resource loading screen
