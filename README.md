@@ -1,4 +1,4 @@
-# reNebula v1.1.0
+# reNebula v1.1.0 ([Changelog](Changelog.md))
 
 ## Meet *reNebula*, renapti's Beautifully Simple Resource Pack for *1.19*
 
