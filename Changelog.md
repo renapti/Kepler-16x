@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.1.0 **WIP**
+## v1.1.0-beta
 
 ### **The Overhaul Update** (Public release!)
 
