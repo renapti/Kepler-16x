@@ -1,35 +1,51 @@
-# reNebula v1.1.0 ([Changelog](Changelog.md))
+# Hubble 16x v1.1.0 ([Changelog](Changelog.md))
 
-## Meet *reNebula*, renapti's Beautifully Simple Resource Pack for *1.19*
+![Meet *Hubble*, an out-of-this-world Resource Pack.](https://user-images.githubusercontent.com/115433521/196066746-b7c139e1-c2b4-42f5-a55b-e278325c4c21.png)
 
-*This README is a WIP! Expect more to be added soon!*
-
-The Simple, Purple, Clean and Minimal Resource Pack that Doesn't Compromise.
+*This Pack is a WIP! Expect more to be added or changed!*
 
 ## Features
 
-* Round and Original Font (named "Bubbles")
-* Custom Language (named "Renaptish")*
-* Shiny HUD: Brand-new Hearts, Armor, Food, Bubbles, XP Bar, Hotbar, Bossbars, and Crosshair
-* Clean GUI: Shiny Purple Menu Buttons with a Consistent Color Scheme
-* Custom Block Breaking Animation
-* Custom Particles (Critical, Magic Crit, Explosion, Damage Indicator)
-* Cleaner Enchantment Glint
-* Improved Overlays: Carved Pumpkin Overlay and Removed Underwater Overlay
-* Consistent and Pretty Design Philosophy
-* Short Swords and Tweaked Tools*
-* Minimal Container Menus
-* Shorter Enchantment Names
-* Attribute Icons*
-* Custom Colors: Font Color Scheme, Durability Bar, and XP Orb Color for [OptiFine](https://optifine.net/downloads) / [Colormatic](https://modrinth.com/mod/colormatic/versions) users, and Custom Item Tooltip, Resource Loading Screen*, XP Level Text, White Block Outline, and Sodium Menu Accent Color* for everyone (Works on Vanilla!)
+- Round and Original Font (named "Bubbles")
+- Custom Language (named "Renaptish")*
+- Shiny HUD: Brand-new Hearts, Armor, Food, Bubbles, XP Bar, Hotbar, Bossbars, and Crosshair
+- Clean GUI: Shiny Purple Menu Buttons with a Consistent Color Scheme
+- Custom Block Breaking Animation
+- Custom Particles (Critical, Magic Crit, Explosion, Damage Indicator)
+- Cleaner Enchantment Glint
+- Improved Overlays: Carved Pumpkin Overlay and Removed Underwater Overlay
+- Consistent and Pretty Design Philosophy
+- Short Swords and Tweaked Tools*
+- Minimal Container Menus
+- Shorter Enchantment Names
+- Attribute Icons*
+- Custom Colors: Font Color Scheme, Durability Bar, and XP Orb Color for [OptiFine](https://optifine.net/downloads) / [Colormatic](https://modrinth.com/mod/colormatic/versions) users, and Custom Item Tooltip, Resource Loading Screen*, XP Level Text, White Block Outline, and Sodium Menu Accent Color* for everyone (Works on Vanilla!)
 
 \**Feature not planned for 1.8 Port*
 
 ---
 
+## Compatible Versions
+
+- [x] Java 1.19
+- [x] Java 1.8 (Most features should work — expect an official port soon)
+- [ ] Bedrock (Not yet planned)
+
+---
+
+## Recommendations
+
+This Resource Pack is compatible with [Appleskin](https://modrinth.com/mod/appleskin/versions)! Get a handy overlay of your saturation, now with Hubble Compatibility!
+
+I recommend using [OptiFine](https://optifine.net/downloads) / [Colormatic](https://modrinth.com/mod/colormatic/versions) with this pack for the Custom Font Colors, Durability Bar Gradient, and XP Orb Color, however it is by no means required.
+
+There is a [long-unfixed bug](https://bugs.mojang.com/browse/MC-67532) in Minecraft that cuts off the bottom of the Hotbar selector. Luckily, this issue has been fixed with the mod [Raised](https://modrinth.com/mod/raised/versions), which I highly recommend using with this pack.
+
+---
+
 ## Screenshots
 
-*Screenshots taken with reNebula v1.1.0. Textures, Colors, Wording, and more may be subject to change.*
+*Screenshots taken with Hubble v1.1.0. Textures, Colors, Wording, and more may be subject to change.*
 
 ## Main Menu
 
@@ -54,7 +70,7 @@ The Simple, Purple, Clean and Minimal Resource Pack that Doesn't Compromise.
 
 </details>
 
-## Tools
+## Items
 
 <details><summary> Show Screenshots </summary>
 
@@ -92,10 +108,8 @@ The Simple, Purple, Clean and Minimal Resource Pack that Doesn't Compromise.
 
 ---
 
-## Recommendations
+### *You can distribute and modify this Resource Pack, or use it in your videos and other kinds of media! Credit not required, but heavily appreciated!*
 
-This Resource Pack is compatible with [Appleskin](https://modrinth.com/mod/appleskin/versions)! Get a handy overlay of your saturation, now with reNebula Compatibility!
+(Nobody likes finding a video with a pack you like, only to find out it doesn't have a link in the description. I'd know from experience! Really, it's for the viewer's convenience!)
 
-I recommend using [OptiFine](https://optifine.net/downloads) / [Colormatic](https://modrinth.com/mod/colormatic/versions) with this pack for the Custom Font Colors, Durability Bar Gradient, and XP Orb Color, however it is by no means required.
-
-There is a [long-unfixed bug](https://bugs.mojang.com/browse/MC-67532) in Minecraft that cuts off the bottom of the Hotbar selector. Luckily, this issue has been fixed with the mod [Raised](https://modrinth.com/mod/raised/versions), which I highly recommend using with this pack.
+This Project was made possible by [Visual Studio Code](https://code.visualstudio.com/) and [Aseprite](https://www.aseprite.org/)!

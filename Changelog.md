@@ -1,31 +1,34 @@
 # Changelog
 
-## v1.1 **WIP**
+## v1.1.0 **WIP**
 
-### **The Overhaul Update**
+### **The Overhaul Update** (Public release!)
 
-This update aims to add many new features and refreshes the current designs!
-Here you see the biggest update in reNebula's History!
+This update aims to add many new features to the pack, and improve on old ones.
 
+This is the biggest content update in Hubble's History!
+
+- Renamed to Hubble 16x
 - Completely Overhauled HUD
 - Revamped GUI Buttons
 - Tweaked Armor & Offhand Slot Inventory Icons
 - Tweaked Bubbles slightly (**TODO**: Update Official Bubbles TTF)
 - Tweaked Renaptish slightly
 - Fixed and Improved Carved Pumpkin Overlay
-- Added some Custom Colors for [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) / [OptiFine](https://optifine.net/home) users
+- Removed Underwater Overlay
+- Added Custom Default Font Color Scheme, Custom Durability Bar, and Custom XP Orb Color for [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) / [OptiFine](https://optifine.net/home) users
+- Added Custom Shaders for Item Tooltip / Highlight, XP Bar Text Color, Block Outline, Resource Loading Screen, and Inventory Text
 - Re-done Swords
 - Tweaked Main Tools
-- More Obvious Custom Enchantment Glint
+- Cleaner Custom Enchantment Glint
 - Re-done Common Particles
 - Added Several New Splashes
-- **EXPERIMENTAL**: Added Custom Shaders for Item Tooltip / Highlight, and Inventory Text
 
 This update discontinues the *Renaptish Flavor*. If you wish to use Renaptish only, you may make your own version by removing all but the `lang` folder inside of `assets/minecraft`.
 
 ---
 
-Updates past this point have been safely archived!
+Updates newer than v1.0.2 have been safely archived!
 If you're looking for an older version, I might not have it on hand!
 
 ---
@@ -53,11 +56,11 @@ If you're looking for an older version, I might not have it on hand!
 
 ---
 
-## v1.0
+## v1.0.0
 
 ### **The Beginning**
 
-v1.0 is based on Rena's Edit 2.2, a development version of this pack never seen in the wild!
+v1.0.0 is based on Rena's Edit 2.2, a development version of this pack never seen in the wild!
 
 Removed most unchanged vanilla textures, bringing the hefty 6000+ file count down to under 300. This saves space and time for everyone! (And for putting this on GitHub!)
 
