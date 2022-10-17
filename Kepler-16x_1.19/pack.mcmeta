@@ -1,5 +1,6 @@
 {
-  "pack": {
+  "pack":
+  {
     "pack_format": 9,
     "description":
     [
@@ -20,5 +21,14 @@
         "text": "by renapti"
       }
     ]
+  },
+  "language":
+  {
+    "en_re":
+    {
+      "name": "Renaptish",
+      "region": "Renada",
+      "bidirectional": false
+    }
   }
 }
