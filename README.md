@@ -62,7 +62,7 @@ There is a [long-unfixed bug](https://bugs.mojang.com/browse/MC-67532) in Minecr
 
 <details><summary> Show Screenshots </summary>
 
-![Bubbles + New Colors](https://user-images.githubusercontent.com/115433521/196021012-c56d44f7-aeb4-410d-858b-29d1d940c7cf.png)
+![Bubbles + New Colors](https://user-images.githubusercontent.com/115433521/196071715-c869a68b-9a20-47eb-88a7-33a00f388994.png)
 
 ### Old Colors
 
