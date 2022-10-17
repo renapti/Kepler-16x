@@ -6,9 +6,9 @@
 
 This update aims to add many new features to the pack, and improve on old ones.
 
-This is the biggest content update in Hubble's History!
+This is the biggest content update in Kepler's History!
 
-- Renamed to Hubble 16x
+- Renamed to Kepler 16x
 - Completely Overhauled HUD
 - Revamped GUI Buttons
 - Tweaked Armor & Offhand Slot Inventory Icons

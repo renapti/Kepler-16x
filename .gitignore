@@ -1,8 +1,8 @@
 # Filepaths
-Hubble-16x/assets/minecraft/Other
-Hubble-16x/assets/minecraft/textures/item/OLD
-Hubble-16x/assets/minecraft/textures/item/ORIGINAL TOOLS
-Hubble-16x/assets/minecraft/textures/item/SCRAPPED
+Kepler-16x/assets/minecraft/Other
+Kepler-16x/assets/minecraft/textures/item/OLD
+Kepler-16x/assets/minecraft/textures/item/ORIGINAL TOOLS
+Kepler-16x/assets/minecraft/textures/item/SCRAPPED
 
 # Filetypes
 *.ase
@@ -12,4 +12,3 @@ Hubble-16x/assets/minecraft/textures/item/SCRAPPED
 desktop.ini
 .markdownlint.json
 preview.psd
-preview.png

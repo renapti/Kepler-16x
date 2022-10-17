@@ -1,6 +1,6 @@
-# Hubble 16x v1.1.0 ([Changelog](Changelog.md))
+# Kepler 16x v1.1.0 ([Changelog](Changelog.md))
 
-![Meet *Hubble*, an out-of-this-world Resource Pack.](https://user-images.githubusercontent.com/115433521/196066746-b7c139e1-c2b4-42f5-a55b-e278325c4c21.png)
+![Meet *Kepler*, an out-of-this-world Resource Pack.](preview.png)
 
 *This Pack is a WIP! Expect more to be added or changed!*
 
@@ -35,7 +35,7 @@
 
 ## Recommendations
 
-This Resource Pack is compatible with [Appleskin](https://modrinth.com/mod/appleskin/versions)! Get a handy overlay of your saturation, now with Hubble Compatibility!
+This Resource Pack is compatible with [Appleskin](https://modrinth.com/mod/appleskin/versions)! Get a handy overlay of your saturation, now with Kepler Compatibility!
 
 I recommend using [OptiFine](https://optifine.net/downloads) / [Colormatic](https://modrinth.com/mod/colormatic/versions) with this pack for the Custom Font Colors, Durability Bar Gradient, and XP Orb Color, however it is by no means required.
 
@@ -45,7 +45,7 @@ There is a [long-unfixed bug](https://bugs.mojang.com/browse/MC-67532) in Minecr
 
 ## Screenshots
 
-*Screenshots taken with Hubble v1.1.0. Textures, Colors, Wording, and more may be subject to change.*
+*Screenshots taken with Kepler v1.1.0. Textures, Colors, Wording, and more may be subject to change.*
 
 ## Main Menu
 
@@ -116,7 +116,7 @@ There is a [long-unfixed bug](https://bugs.mojang.com/browse/MC-67532) in Minecr
 
 ## Shaders Credits
 
-[position_color](Hubble-16x_1.19/assets/minecraft/shaders/core/position_color.fsh) and [rendertype_text](Hubble-16x_1.19/assets/minecraft/shaders/core/rendertype_text.fsh) are not mine!
+[position_color](Kepler-16x_1.19/assets/minecraft/shaders/core/position_color.fsh) and [rendertype_text](Kepler-16x_1.19/assets/minecraft/shaders/core/rendertype_text.fsh) are not mine!
 
 They were made by [Enchanted_Games](https://www.planetminecraft.com/member/enchanted_games/) on Planet Minecraft.  
 [Here's the link](https://www.planetminecraft.com/blog/changing-hardcoded-colours-1-18-1-17-core-shaders/) to the Template Pack I used!
