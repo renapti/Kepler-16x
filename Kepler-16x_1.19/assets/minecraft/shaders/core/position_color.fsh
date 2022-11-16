@@ -34,8 +34,13 @@ void main() {
         // Vertically reflecting dark gradient
         color.a = abs(linear(color.b, 0.515, 1.0, -1.0, 1.0));
         color.a -= 0.3;
-        color.a *= 1 / 0.3;
-        color = vec4(0.2314, 0.1882, 0.3647, color.a);
+        color.a /= 0.3;
+        // color = vec4(0.7529, 0.6157, 1, color.a);
+        color = vec4(
+            linear(1.0 - color.a, 0.0, 1.0, 0.7529, 1.0),
+            linear(1.0 - color.a, 0.0, 1.0, 0.6157, 1.0),
+            1,
+            1);
     }
 
     // Tooltip Background
