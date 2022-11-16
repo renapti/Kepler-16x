@@ -74,14 +74,14 @@ void main()
         color = vec4(0.231, 0.188, 0.365, color.a);
     }
 
-    // Make XP Bar Text purple, instead of using color.properties
+    // Make XP Bar Text white, instead of using color.properties
     // Parity between OptiFine/Colormatic and Vanilla
     if
     (
         vec4EqualsRough(color, xpBarText, 0.005)
     )
     {
-        color = vec4(0.9451, 0.898, 1, 1);
+        color = vec4(1f);
     }
     
     fragColor = linear_fog(color, vertexDistance, FogStart, FogEnd, FogColor);
