@@ -1,27 +1,47 @@
 # Kepler 16x v1.1.0 ([Changelog](Changelog.md))
 
-![Meet *Kepler*, an out-of-this-world Resource Pack.](preview.png)
+![Meet *Kepler*, a beautifully royal galaxy-themed UI pack.](preview.png)
 
-*This Pack is a WIP! Expect more to be added or changed!*
+*This Resource Pack is a HEAVY WIP! Expect more to be added, removed, or changed in the future!*
 
 ## Features
 
-- Round and Original Font (named "Bubbles")
-- Custom Language (named "Renaptish")*
-- Shiny HUD: Brand-new Hearts, Armor, Food, Bubbles, XP Bar, Hotbar, Bossbars, and Crosshair
-- Clean GUI: Shiny Purple Menu Buttons with a Consistent Color Scheme
-- Custom Block Breaking Animation
-- Custom Particles (Critical, Magic Crit, Explosion, Damage Indicator)
-- Cleaner Enchantment Glint
-- Improved Overlays: Carved Pumpkin Overlay and Removed Underwater Overlay
-- Consistent and Pretty Design Philosophy
-- Short Swords and Tweaked Tools*
-- Minimal Container Menus
-- Shorter Enchantment Names
-- Attribute Icons*
-- Custom Colors: Font Color Scheme, Durability Bar, and XP Orb Color for [OptiFine](https://optifine.net/downloads) / [Colormatic](https://modrinth.com/mod/colormatic/versions) users, and Custom Item Tooltip, Resource Loading Screen*, XP Level Text, White Block Outline, and Sodium Menu Accent Color* for everyone (Works on Vanilla!)
+- **Smooth, Round, and Original Font** (named "Bubbles")
+  - Want something more playful? Check out the alternate version of Bubbles!
+- **Custom Language** (named "Renaptish")*
+- **Shiny New HUD!**
+  - Hearts, Armor, Food, and Bubbles (not the font!)
+  - XP Bar
+  - Hotbar
+  - Bossbars
+  - Smaller Crosshair
+- **Clean GUI!** Shiny Purple Menu Buttons with a Consistent Color Scheme
+- **Custom Block Breaking Animation**
+- **Custom Particles**
+  - Critical
+  - Magic Crit
+  - Explosion
+  - Damage Indicator
+- **Cleaner Enchantment Glint**
+- **Improved Overlays**
+  - Carved Pumpkin Overlay
+  - Removed Underwater Overlay
+- **Short Swords and Tweaked Tools***
+- **Sleek, Minimal Container Menus**
+- **Shorter Enchantment Names**
+- **Attribute Icons***
+- **Custom Colors for [OptiFine](https://optifine.net/downloads) / [Colormatic](https://modrinth.com/mod/colormatic/versions) users**
+  - Font Color Scheme
+  - Durability Bar
+  - XP Orb Color
+- **Custom Colors for Everyone Else!**
+  - Custom Item Tooltip
+  - Resource Loading Screen*
+  - XP Level Text
+  - White Block Outline
+  - Sodium Menu Accent Color*
 
-\**Feature not planned for 1.8 Port*
+\**Feature not planned or applicable for 1.8 Port*
 
 ---
 

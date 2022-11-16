@@ -12,7 +12,7 @@ This is the biggest content update in Kepler's History!
 - Completely Overhauled HUD
 - Revamped GUI Buttons
 - Tweaked Armor & Offhand Slot Inventory Icons
-- Tweaked Bubbles slightly (**TODO**: Update Official Bubbles TTF)
+- Tweaked Bubbles slightly
 - Tweaked Renaptish slightly
 - Fixed and Improved Carved Pumpkin Overlay
 - Removed Underwater Overlay
