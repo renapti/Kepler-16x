@@ -7,6 +7,7 @@
 ## Features
 
 - Round and Original Font (named "Bubbles")
+- A new, more handwritten-style version of Bubbles (see the release notes!)
 - Custom Language (named "Renaptish")*
 - Shiny HUD: Brand-new Hearts, Armor, Food, Bubbles, XP Bar, Hotbar, Bossbars, and Crosshair
 - Clean GUI: Shiny Purple Menu Buttons with a Consistent Color Scheme
