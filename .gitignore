@@ -7,8 +7,8 @@ Kepler-16x/assets/minecraft/textures/item/SCRAPPED
 # Filetypes
 *.ase
 *.aseprite
+*.psd
 
 # Files
 desktop.ini
 .markdownlint.json
-preview.psd
