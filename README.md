@@ -161,3 +161,15 @@ They were made by [Enchanted_Games](https://www.planetminecraft.com/member/encha
 ## Programs Used
 
 This Project was made possible by [Visual Studio Code](https://code.visualstudio.com/) and [Aseprite](https://www.aseprite.org/)!
+
+---
+
+## Giving Feedback
+
+Kepler 16x is not perfect, and never will be. However, it can always be improved, and things can always be added or fixed! The latest, in-development versions of Kepler are always available to download in this repository, separate from releases.
+
+If somethings awry, or you spot a mistake, feel free to open an issue or send me a DM on my socials so it can be fixed! Thank you!
+
+### Contributing
+
+At this time, the only way to directly contribute to Kepler 16x is to open issues or otherwise suggest improvements or changes to the pack, as mentioned above. Pull requests will not be approved.
