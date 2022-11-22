@@ -81,9 +81,11 @@ There is a [long-unfixed bug](https://bugs.mojang.com/browse/MC-67532) in Minecr
 <details><summary> Show Screenshots </summary>
 
 Bubbles (Default)
+
 ![Bubbles (Default)](https://user-images.githubusercontent.com/115433521/203173956-312484aa-2608-4a53-af0b-02c3089d291e.png)
 
 Bubbles (Alt, instructions below*)
+
 ![Bubbles (Alt)](https://user-images.githubusercontent.com/115433521/203174156-256a101c-115c-4770-8d84-9aafe79b93a4.png)
 
 ### Old Colors
