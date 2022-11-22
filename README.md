@@ -1,8 +1,8 @@
 # Kepler 16x v1.1.0 ([Changelog](Changelog.md))
 
-![Meet *Kepler*, a beautifully royal galaxy-themed UI pack.](preview.png)
+![Meet Kepler 16x. A simple, beautiful, galaxy-themed resource pack.](preview.png)
 
-*This Resource Pack is a HEAVY WIP! Expect more to be added, removed, or changed in the future!*
+*Kepler is still very much not done! Expect more to be added, removed, or changed in the future!*
 
 ## Features
 
@@ -41,14 +41,14 @@
   - White Block Outline
   - Sodium Menu Accent Color*
 
-\**Feature not planned or applicable for 1.8 Port*
+\**Feature will not be included in 1.8 port*
 
 ---
 
 ## Compatible Versions
 
 - [x] Java 1.19
-- [x] Java 1.8 (Most features should work — expect an official port soon)
+- [x] Java 1.8 (Most features should work OOTB — expect an official port soon)
 - [ ] Bedrock (Not yet planned)
 
 ---
@@ -65,24 +65,26 @@ There is a [long-unfixed bug](https://bugs.mojang.com/browse/MC-67532) in Minecr
 
 ## Screenshots
 
-*Screenshots taken with Kepler v1.1.0. Textures, Colors, Wording, and more may be subject to change.*
+*Screenshots taken with a development version of Kepler v1.1.0. These may vary from the downloaded final product. Textures, Colors, Wording, and more may be subject to change.*
 
 ## Main Menu
 
 <details><summary> Show Screenshots </summary>
 
-![Title Screen](https://user-images.githubusercontent.com/115433521/196018971-5f8b61c5-6964-4ca5-8891-db03f115bb36.png)
-![Third Party Play Warning](https://user-images.githubusercontent.com/115433521/196019021-023b4f7c-e32f-48f7-89b2-88d418808985.png)
-![Default World Creation Screen](https://user-images.githubusercontent.com/115433521/196019126-328f419e-2c1b-444d-a9b2-f857d2c8d63f.png)
-![Server List](https://user-images.githubusercontent.com/115433521/196019175-9cc3ee47-b035-4c76-be6d-68c3db527e92.png)
+![Title Screen](https://user-images.githubusercontent.com/115433521/203176703-a311dd62-ed6f-4e1c-b14f-bd004cac3a28.png)
+![Options Screen](https://user-images.githubusercontent.com/115433521/203176890-044db596-127b-46d0-a7cb-85c16cd07a80.png)
 
 </details>
 
-## Font (Bubbles)
+## Font (Bubbles)*
 
 <details><summary> Show Screenshots </summary>
 
-![Bubbles + New Colors](https://user-images.githubusercontent.com/115433521/196071715-c869a68b-9a20-47eb-88a7-33a00f388994.png)
+Bubbles (Default)
+![Bubbles (Default)](https://user-images.githubusercontent.com/115433521/203173956-312484aa-2608-4a53-af0b-02c3089d291e.png)
+
+Bubbles (Alt, instructions below*)
+![Bubbles (Alt)](https://user-images.githubusercontent.com/115433521/203174156-256a101c-115c-4770-8d84-9aafe79b93a4.png)
 
 ### Old Colors
 
@@ -112,27 +114,39 @@ There is a [long-unfixed bug](https://bugs.mojang.com/browse/MC-67532) in Minecr
 
 ### HUD: Hotbar and Crosshair
 
-![Hotbar and Crosshair](https://user-images.githubusercontent.com/115433521/196020210-a32fe05e-71ce-47fe-ba8c-e8e56ee47b32.png)
+![Hotbar + Crosshair](https://user-images.githubusercontent.com/115433521/203177624-1f4ea6e2-8516-4891-b22f-e45cbf40407f.png)
 
 ### Item Tooltips, Stats, and Abbreviated Enchantments
 
-![Item Tooltip - Sword](https://user-images.githubusercontent.com/115433521/196020476-d8327f1c-b9d6-4795-8279-f4bac9e79dea.png)
-![Item Tooltip - Boots](https://user-images.githubusercontent.com/115433521/196020525-4a02495e-1553-41da-badc-cd26a49e3beb.png)
+![Shortened Combat Enchantments Example](https://user-images.githubusercontent.com/115433521/203177996-268970bd-1063-4074-a8f3-317b0e0a783f.png)
+![Shortened Defensive Enchantments Example](https://user-images.githubusercontent.com/115433521/203178026-704a9c9c-c919-4a04-9c7f-9911c71a7e92.png)
 
 ### [Appleskin](https://modrinth.com/mod/appleskin/versions) Textures
 
-![Appleskin Compatibility - Items](https://user-images.githubusercontent.com/115433521/196020226-6b196585-35d4-4784-ac4a-16055500c94d.png)
+![Appleskin Compatibility - Items](https://user-images.githubusercontent.com/115433521/203178089-ee0a997c-eaba-46c3-896d-a7f0a4a9fdc1.png)
 ![Appleskin Compatibility - Hunger Bar, Fully Saturated](https://user-images.githubusercontent.com/115433521/196020369-624209fb-144e-4a98-a8bf-b8650bb210ed.png)
 
 </details>
 
 ---
 
+## *Installing Bubbles Alt
+
+This resource pack comes with two versions of its custom font, Bubbles. The default version is the definitive version of the font, and the alternate version looks closer to crude handwriting.
+
+The folder for Bubbles Alt is included in every release (if it has been updated in that release). To install it, grab a copy of Kepler 16x and Bubbles Alt (if there is none in the latest release, you can download it from the latest branch, or look for the last release with Bubbles Alt), open the Bubbles Alt folder, and drag everything inside into your Kepler folder. You may be prompted to replace a few files, click `Yes`.
+
+![Replace Files Prompt in Windows 10/11](https://user-images.githubusercontent.com/115433521/203174687-5033d587-a67e-404c-bb97-96ac53bb9ee4.png)
+
+If the files copy successfully, Congratulations — You've now installed Bubbles Alt, just like that! You can drag Kepler 16x into your Minecraft instance's `resourcepacks` folder to use the pack with the alternate font.
+
+*Bubbles Alt inspired by a Discord User "Jell-O"'s Custom Minecraft Font*
+
+---
+
 ## Crediting renapti
 
 ### *You can distribute and modify this Resource Pack, and use it in your videos and other kinds of media! Credit not required, but heavily appreciated!*
-
-(If you credit me in a video, please link the GitHub repository for this pack in the description. Nobody likes finding a video with a pack you like, only to find out it doesn't have a link in the description. I'd know from experience! Really, it's for the viewer's convenience!)
 
 ## Shaders Credits
 
