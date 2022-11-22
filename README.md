@@ -7,8 +7,8 @@
 ## Features
 
 - **Smooth, Round, and Original Font** (named "Bubbles")
-  - Want something more playful? Check out the alternate version of Bubbles!
-- **Custom Language** (named "Renaptish")*
+  - Want something more playful? Check out the alternate version of Bubbles!²
+- **Custom Language** (named "Renaptish")¹
 - **Shiny New HUD!**
   - Hearts, Armor, Food, and Bubbles (not the font!)
   - XP Bar
@@ -19,29 +19,30 @@
 - **Custom Block Breaking Animation**
 - **Custom Particles**
   - Critical
-  - Magic Crit
+  - Magic Damage
   - Explosion
   - Damage Indicator
+  - Potion Swirlies
 - **Cleaner Enchantment Glint**
 - **Improved Overlays**
   - Carved Pumpkin Overlay
   - Removed Underwater Overlay
-- **Short Swords and Tweaked Tools***
+- **Short Swords and Tweaked Tools**¹
 - **Sleek, Minimal Container Menus**
 - **Shorter Enchantment Names**
-- **Attribute Icons***
+- **Attribute Icons**¹
 - **Custom Colors for [OptiFine](https://optifine.net/downloads) / [Colormatic](https://modrinth.com/mod/colormatic/versions) users**
   - Font Color Scheme
   - Durability Bar
   - XP Orb Color
 - **Custom Colors for Everyone Else!**
   - Custom Item Tooltip
-  - Resource Loading Screen*
+  - Resource Loading Screen¹
   - XP Level Text
   - White Block Outline
-  - Sodium Menu Accent Color*
+  - Sodium Menu Accent Color¹
 
-\**Feature will not be included in 1.8 port*
+¹*Feature will not be included in 1.8 port*
 
 ---
 
@@ -76,7 +77,7 @@ There is a [long-unfixed bug](https://bugs.mojang.com/browse/MC-67532) in Minecr
 
 </details>
 
-## Font (Bubbles)*
+## Font (Bubbles)²
 
 <details><summary> Show Screenshots </summary>
 
@@ -132,7 +133,7 @@ Bubbles (Alt, instructions below*)
 
 ---
 
-## *Installing Bubbles Alt
+## ²Installing Bubbles Alt
 
 This resource pack comes with two versions of its custom font, Bubbles. The default version is the definitive version of the font, and the alternate version looks closer to crude handwriting.
 
