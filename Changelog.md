@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.2.0-Beta (Current WIP)
+
+### This version currently has no planned features. Stay tuned!
+
+---
+
 ## v1.1.0
 
 ### **The Overhaul Update** (Public release!)
@@ -8,7 +14,7 @@ This update aims to add many new features to the pack, and improve on old ones.
 
 This is the biggest content update in Kepler's History!
 
-*See [v1.1.0 README.md](https://github.com/renapti/Kepler-16x/blob/e00feeb29ca3f65c1989558c03459246177c5a4d/README.md) for a full features list*
+*See [v1.1.0 Readme](https://github.com/renapti/Kepler-16x/blob/e00feeb29ca3f65c1989558c03459246177c5a4d/README.md) for a full features list*
 
 - Renamed to Kepler 16x
 - Completely Overhauled HUD
