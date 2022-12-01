@@ -1,6 +1,12 @@
 # Changelog
 
-## v1.1.0-beta
+## v1.2.0
+
+### **WIP!**
+
+*No features are planned yet for this update. Stay tuned!*
+
+## v1.1.0
 
 ### **The Overhaul Update** (Public release!)
 
