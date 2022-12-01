@@ -1,4 +1,4 @@
-# Kepler 16x v1.2.0 WIP ([Changelog](Changelog.md))
+# Kepler 16x v1.2.0 WIP ([Changelog](https://github.com/renapti/Kepler-16x/blob/main/Changelog.md))
 
 ![Meet Kepler 16x. A simple, beautiful, galaxy-themed resource pack.](preview.png)
 
