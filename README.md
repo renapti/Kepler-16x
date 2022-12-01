@@ -4,8 +4,6 @@
 
 ## You're on the main branch, which might not be updated! To look for the latest updates, select a version in the branches list or look at releases!
 
-![Meet Kepler 16x. A simple, beautiful, galaxy-themed resource pack.](https://github.com/renapti/Kepler-16x/blob/6be2ebd07eb4759a8213f8c0a2f0026216f973cc/preview.png)
-
 *Kepler is still very much not done! Expect more to be added, removed, or changed in the future!*
 
 ## Features
