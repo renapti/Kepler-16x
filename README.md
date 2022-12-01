@@ -1,4 +1,6 @@
-# Kepler 16x v1.1.0 ([Changelog](Changelog.md))
+# Kepler 16x ([Changelog](Changelog.md))
+
+![Meet Kepler 16x. A simple, beautiful, galaxy-themed resource pack.](preview.png)
 
 ## You're on the main branch, which might not be updated! To look for the latest updates, select a version in the branches list or look at releases!
 

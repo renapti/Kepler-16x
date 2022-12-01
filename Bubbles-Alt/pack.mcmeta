@@ -1,0 +1,34 @@
+{
+  "pack":
+  {
+    "pack_format": 9,
+    "description":
+    [
+      {
+        "color": "#A888F5",
+        "text": "mint, alt font "
+      },
+      {
+        "color": "#634DB4",
+        "text": "v1.1.0\n"
+      },
+      {
+        "color": "#F9E8FF",
+        "text": "a simple edit "
+      },
+      {
+        "color": "#AC92BD",
+        "text": "by renapti"
+      }
+    ]
+  },
+  "language":
+  {
+    "en_re":
+    {
+      "name": "Renaptish",
+      "region": "Renada",
+      "bidirectional": false
+    }
+  }
+}
