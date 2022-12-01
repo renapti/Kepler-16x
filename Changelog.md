@@ -8,11 +8,13 @@ This update aims to add many new features to the pack, and improve on old ones.
 
 This is the biggest content update in Kepler's History!
 
+*See [v1.1.0 README.md](https://github.com/renapti/Kepler-16x/blob/e00feeb29ca3f65c1989558c03459246177c5a4d/README.md) for a full features list*
+
 - Renamed to Kepler 16x
 - Completely Overhauled HUD
 - Revamped GUI Buttons
 - Tweaked Armor & Offhand Slot Inventory Icons
-- Tweaked Bubbles slightly
+- Overhauled Bubbles and Added a New Version of it
 - Tweaked Renaptish slightly
 - Fixed and Improved Carved Pumpkin Overlay
 - Removed Underwater Overlay
