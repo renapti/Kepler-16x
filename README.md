@@ -137,6 +137,8 @@ Bubbles (Alt, instructions below*)
 
 This resource pack comes with two versions of its custom font, Bubbles. The default version is the definitive version of the font, and the alternate version looks closer to crude handwriting.
 
+**Note:** This version of the Bubbles font will no longer be maintained, as goals for this resource pack shift. Expect this update to be completed soon!
+
 The folder for Bubbles Alt is included in every release (if it has been updated in that release). To install it, grab a copy of Kepler 16x and Bubbles Alt (if there is none in the latest release, you can download it from the latest branch, or look for the last release with Bubbles Alt), open the Bubbles Alt folder, and drag everything inside into your Kepler folder. You may be prompted to replace a few files, click `Yes`.
 
 ![Replace Files Prompt in Windows 10/11](https://user-images.githubusercontent.com/115433521/203174687-5033d587-a67e-404c-bb97-96ac53bb9ee4.png)
